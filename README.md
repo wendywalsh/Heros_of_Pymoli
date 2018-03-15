@@ -18,7 +18,7 @@
 -  Percentage and Count of Other / Non-Disclosed
 -  Purchasing Analysis (Gender)
 
--The below each broken by gender
+- The below each broken by gender
 
    * Purchase Count
    * Average Purchase Price
