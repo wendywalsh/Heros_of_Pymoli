@@ -2,14 +2,16 @@
 #### Data manipulation in pandas completed to answer the following:
 
 - Player Count
-*  Total Number of Players
-*  Purchasing Analysis (Total)
+
+   *  Total Number of Players
+   *  Purchasing Analysis (Total)
 
 -  Number of Unique Items
-        Average Purchase Price
-        Total Number of Purchases
-        Total Revenue
-        Gender Demographics
+
+   Average Purchase Price
+   Total Number of Purchases
+   Total Revenue
+   Gender Demographics
 
 -  Percentage and Count of Male Players
 -  Percentage and Count of Female Players
