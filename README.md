@@ -2,8 +2,8 @@
 #### Data manipulation in pandas completed to answer the following:
 
 - Player Count
-        Total Number of Players
-        Purchasing Analysis (Total)
+*  Total Number of Players
+*  Purchasing Analysis (Total)
 
 -  Number of Unique Items
         Average Purchase Price
